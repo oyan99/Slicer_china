@@ -50,9 +50,15 @@ Slicer的主要特征有广泛的功能、扩展性好、平台独立和无限�
 Slicer的最近一次发布的重要版本是2011年5月的Slicer 4，从2011年5月至今也发布了若干个稳定版本，现在最新的稳定版本是2012年11月发布的Slicer 4.2。
 ___
 
-1.4本书主要内容
+1.4本书主要内容　</br>
+
 [1] 唐泽圣 三维数据场可视化[M].北京：清华大学出版社，1999.
-[2] Nieolas J. Dusaussay, Robert N. Yaneey et al. Image Process FOR CT-Assisted Reverse Engineer and Part Charaeterization[J].IEEE, vol. 4, no.2, 2002
+
+[2] Nieolas J. Dusaussay, Robert N. Yaneey et al. 
+Image Process FOR CT-Assisted Reverse Engineer and Part Charaeterization[J].IEEE, vol. 4, no.2, 2002
+
 [3] http://www.analyzedirect.com/Analyze/
+
 [4] http://www.mitk.net/
+
 [5]李恩中. 医学图像处理与分析软件平台综述
